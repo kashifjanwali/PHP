@@ -14,7 +14,7 @@ Welcome to the PHP Code Repository! This is your one-stop destination for all th
 ### Clone the Repository
 To get started, clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/kashifjanwali/PHP.git
+https://github.com/kashifjanwali/PHP.git
 ```
 Browse and Experiment
 Feel free to explore the contents of the repository. Dive into folders, read code comments, and experiment with the provided code samples.
